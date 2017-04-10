@@ -33,8 +33,8 @@
     "url": "http://github.com/telemark/node-cs/issues"
   },
   "devDependencies": {
-    "coveralls": "2.11.16",
-    "nsp": "2.6.3",
+    "coveralls": "2.12.0",
+    "nsp": "2.6.2",
     "standard": "9.0.2",
     "tap": "10.2.1"
   }
