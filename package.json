@@ -1,7 +1,7 @@
 {
   "name": "node-cs",
   "description": "API for SuperOffice CS",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "license": "MIT",
   "author": {
     "name": "Geir Gåsodden",
@@ -36,6 +36,6 @@
     "coveralls": "2.13.1",
     "nsp": "2.6.2",
     "standard": "10.0.2",
-    "tap": "10.4.0"
+    "tap": "10.3.3"
   }
 }
